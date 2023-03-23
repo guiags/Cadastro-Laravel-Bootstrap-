@@ -1,0 +1,23 @@
+header ul li:hover{
+     scale: 105%; 
+     background: #0E1D35;
+}
+
+
+header ul li{
+    border-radius: 5px;
+}
+
+#bg-total {
+    background-color: #7c8594; /*#5a7b82 */
+    border-radius: 5px;
+}
+
+
+#head-welc{
+    margin-top: 2%;
+}
+
+body{
+    background-color: #DDDEE5 !important;
+}
